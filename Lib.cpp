@@ -1,10 +1,10 @@
-#include <iostream.h>
+#include <iostream>
 #include <conio.h>
-#include <iomanip.h> //input-output manipulator
+#include <iomanip> //input-output manipulator
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
-#include <fstream.h>
+#include <fstream>
 class book
 {
     char bno[6];    // bookno.
